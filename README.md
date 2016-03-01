@@ -7,7 +7,7 @@ This repository contains the code to find the two largest concatenated words fro
  DoginHospital</br>
  catsdogs</br>
  dogcats</br>
- The two longest concatenated words in this list are catsdog and dogcats as they are made by combination of other words present</br>
+ The two longest concatenated words in this list are catsdog and dogcats as they are made by combination of other words
  already present in the list.</br>
  The code also returns the total number of concatenated words present in the file.</br>
 
