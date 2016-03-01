@@ -1,4 +1,4 @@
-# LongestCompositeWord
+# Longest Composite Word
 This repository contains the code to find the two largest concatenated words from a list of words containes in a file. </br>
  For example consider the files contains the words:</br>
  cats</br>
@@ -31,5 +31,6 @@ The idea behind this is that we don’t need to go thorough the entire list of w
 
  1) Please compile all the attached java files.</br>
 
- 2) Run Test.java and provide the absolute/relative path of the file "wordsforproblem.txt" as an argument.</br>
+ 2) Run Test.java and provide the absolute/relative path of the file containing the list of words as an argument.</br>
+    Every line of the file should contain only one word.
 
