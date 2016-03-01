@@ -17,7 +17,7 @@ This repository contains the code to find the two largest concatenated words fro
 constant time.</br>
 
 2) Sort the input words in the descending order of their lengths by using a custom comparator.</br>
-The idea behind this is that we don’t need to go thorough the entire list of words again in average case to find the two largest</br> concatenated words.</br>
+The idea behind this is that we don’t need to go thorough the entire list of words again in average case to find the two largest concatenated words.</br>
 
 3) Iterate over the list of words and check whether they are valid concatenated words.</br>
  This is done by taking substrings of the word starting from left and checking whether it exists in the hash set. If it does,</br>
