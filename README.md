@@ -1,6 +1,6 @@
 # Longest Composite Word
-This repository contains the code to find the two largest concatenated words from a list of words containes in a file. </br>
- For example consider the files contains the words:</br>
+This repository contains the code to find the two largest concatenated words from a list of words contained in a file. </br>
+ For example consider the file contains the words:</br>
  cats</br>
  dog</br>
  catsdog</br>
